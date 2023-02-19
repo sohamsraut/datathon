@@ -5,5 +5,5 @@ Group project by:
 - Krishna Saxena: https://github.com/Krishna-Saxena
 - Shridhar Sinha: https://github.com/ShridharS19
 - Aryaman Chakravarty: 
-- Bazil Hyder:
+- Bazil Hyder: https://github.com/bazilhyder
 - Soham Raut: https://github.com/sohamsraut/
