@@ -4,6 +4,6 @@ View additional files such as the updated dataset at https://drive.google.com/dr
 Group project by:
 - Krishna Saxena: https://github.com/Krishna-Saxena
 - Shridhar Sinha: https://github.com/ShridharS19
-- Aryaman Chakravarty: 
+- Aryaman Chakravarty: https://github.com/aryaman1411
 - Bazil Hyder: https://github.com/bazilhyder
 - Soham Raut: https://github.com/sohamsraut/
